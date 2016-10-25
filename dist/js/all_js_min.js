@@ -1,0 +1,1 @@
+$(function(){console.log("Hell world 1")}),$(function(){console.log("Hell world 2")});
